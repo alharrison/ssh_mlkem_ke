@@ -36,12 +36,12 @@ keyword:
  - sparkling distributed ledger
 
 venue:
-  group: 
-  type: 
-  mail: 
-  arch: 
-  github: 
-  latest: 
+  group: NA
+  type: NA
+  mail: na@na.com
+  arch: NA
+  github: NA
+  latest: NA
   
 author:
  -
