@@ -36,12 +36,12 @@ keyword:
  - sparkling distributed ledger
 
 venue:
-  group: NA
-  type: NA
-  mail: na@na.com
-  arch: NA
-  github: NA
-  latest: NA
+  group: WG
+  type: Working Group
+  mail: WG@example.com
+  arch: https://example.com/WG
+  github: alharrison/ssh_mlkem_ke
+  latest: https://example.com/LATEST
   
 author:
  -
