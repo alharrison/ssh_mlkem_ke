@@ -22,7 +22,7 @@
 title: "Module-Lattice Key Exchange in SSH"
 category: info
 
-docname: draft-harrison-curdle-ssh-mlkem-ke-latest
+docname: draft-harrison-curdle-ssh-mlkem-ke-00
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
