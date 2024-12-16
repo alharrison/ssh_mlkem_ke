@@ -35,7 +35,14 @@ keyword:
  - unicorn
  - sparkling distributed ledger
 
-
+venue:
+  group: 
+  type: 
+  mail: 
+  arch: 
+  github: 
+  latest: 
+  
 author:
  -
     fullname: Your Name Here
